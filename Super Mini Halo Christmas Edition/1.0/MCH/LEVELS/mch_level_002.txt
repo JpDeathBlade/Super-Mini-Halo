@@ -1,0 +1,20 @@
+; Made by Pikita
+;Super Mini Halo Christmas Edition
+;Level created/edited in Mongatards Level Editor for use with Arguru's mini mario game.
+gggggggggggggggggggggggggggggg
+gbbbbbbbbbbbbbbbbbbbbbbbbbbb g
+gC1111CCCCCCCCCCCCCCCCCCCCC  g
+gCCbbbbbbbbbbbbbbbbbbbbbbbb Gg
+gbCCbbbbbbbbbbbbbbbbbbbbbbbbbg
+gbbCCbbbbbbbbbbbbbbbbbbbbbbbbg
+gbbbCCbbbbbbbbbbbbbbbbbbbbbbbg
+gbbbbCCb111111111111111bbbbbbg
+gbbbbbCC111111111111111bbbbbbg
+gbbbbbbbbbbbbbbbbCCbbbbbbbbbbg
+gbbbbbbbbbbbbbbbCCbbbbbbbbbbbg
+gbbbbbbbbbbbbbbCCbbbbbbbbbbbbg
+gbbbbbbbbbbbbbCCbbbbbbbbbbbbbg
+g  bbbbbbbbbbCCbbbbbbbbbbbbbbg
+gI CCCCCCCCCCCbbbbbbbbbbbbbbbg
+gggggggggggggggggggggggggggggg
+E

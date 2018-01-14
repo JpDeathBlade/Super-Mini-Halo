@@ -1,0 +1,22 @@
+; Made by  Made by 
+; Made by 
+;Level created/edited in Mongatards Level Editor for use with Arguru's mini mario game.
+; Made by                                         
+11111111111111111111111111111111111111111111111111
+11111111111111111111111111111111111111111111111CCC
+PbPCPCPCPCPCPCPCPbPCPCPCPCPbPCPCPCPCPCPCPbPCPCP  G
+                                                1b
+                                               1C 
+   1   1       1                              1b  
+ 11b311b1311111b311111  1         1  1       1b   
+Ibb1bCb bbCbbbb bbbbCb31b111311111b31b1311111C    
+b111                  bb bbCbbbbCb bb Cbbbbbb     
+S111                                         b   1
+bb11                                            1b
+b111   1    111111    1111   11                1b 
+bbbb   b    bbbbbb    bbbb   bb   111    111111b  
+                                  bbb    bbbbbb   
+                                                  
+SSCSSSSSCSSSSSSSSSCSSSSSSSSSCSSSCSSSSCSSCSSSSSSCSS
+SSSSSSSSSSSU511111USSSSSSSSSSSSSSSU41USSSSSSSSSSSS
+E

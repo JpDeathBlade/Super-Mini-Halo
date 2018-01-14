@@ -1,0 +1,20 @@
+; Made by  Made by  Made by Pikita
+;Super Mini Halo Christmas Edition
+;Level created/edited in Mongatards Level Editor for use with Arguru's mini mario game.
+gggggggggggggggggggggggggggggg    
+g                            g    
+g111v              111  111 Gg    
+gbbbb             bbbbbbbbbbbg    
+g         t     11111111111  g    
+g1v1  1111t11   bbbbbbbbbbb  g    
+gbbbbCbbbbbbbb              1g    
+g                          bbg    
+g                         v  g    
+g            1111111     bb  g    
+g     t     1111111b 4vb     g    
+g     t t  vbwwwwwwbbbbbwwwwwg    
+g    vt t  bgggggggggggggggggg    
+g t CCgCC bggggggggggggggggggg    
+gItb     bgggggggggggggggggggg    
+ggggSSSSSggggggggggggggggggggg    
+E

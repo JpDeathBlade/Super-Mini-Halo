@@ -1,0 +1,20 @@
+; Made by Xp Max Productions
+; Super Mini Halo
+;Level created/edited in Mongatards Level Editor for use with Arguru's mini mario game.
+gggggggggggggggggggggggggggggg
+gI1               1111   1111g
+gbb11      111   vbbbb1  bbbbg
+g  bb      bbb   b    b      g
+gt    1v11         t         g
+gt    bbbb1    1  1t1       tg
+gt        b1 t b  bbb  b11v2tg
+gb   11    b t          bbbbbg
+g  1vbb     bt2v11b  t       g
+g  bb   t    bbbbb  1t1      g
+g1      t111        bbb   111g
+gb t   1bb1b1            1bbbg
+g  t  1b111tb1     t    1b111g
+g  b 1b1111t1b1  btt   vb11bCg
+gvb  b11v bt11b  btt2b C111bGg
+gg   ggggSggggg  gggggSggggggg
+E

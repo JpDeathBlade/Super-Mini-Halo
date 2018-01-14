@@ -1,0 +1,20 @@
+; Made by  Made by Pikita - Xp Max
+;Pikita's Level Pack
+;Level created/edited in Mongatards Level Editor for use with Arguru's mini mario game.
+                              
+                              
+                              
+                              
+                              
+     11  b11115b              
+I  11bb  bbbbbbb              
+bbbbbbb  b                    
+      b  b     111111         
+      b  b     bbbbbb         
+      b  b b511b              
+      b  b bbbb               
+      b  b            1    11 
+      b  b   5  11  1bb1  1bb 
+      b  bG1111bCCb111511bb   
+wwwwwwbSSbbbbbbbwwbbbbbbbwwwww
+E
