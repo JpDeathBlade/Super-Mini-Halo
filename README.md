@@ -1,7 +1,7 @@
 # Super-Mini-Halo
 A PSP homebrew Mario game with a Halo skin.
 
-![Level 1](Screenshots/1_Level1.png?raw=true "Level 1")
+![Level 1](Screenshots/1_Level1.jpg?raw=true "Level 1")
 
 ## Blast From The Past
 * [Announcment](http://www.dcemu.co.uk/vbulletin/threads/41941-Super-Mini-Halo-Alpha-and-Secret-Game-Announced)
